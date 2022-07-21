@@ -4,7 +4,7 @@
 
 
 <h3>About Me</h3>
-👋Hello, My name is Pachara I am currently a student I usually use github for fun in my free time and I enjoy it.
+👋Hello, my name is Pachara I am currently a student I usually use Github for fun in my free time and I enjoy it.
 
 
 
